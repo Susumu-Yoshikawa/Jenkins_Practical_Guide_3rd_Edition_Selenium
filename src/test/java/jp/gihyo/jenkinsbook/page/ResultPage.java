@@ -6,8 +6,8 @@ import org.openqa.selenium.By;
 public class ResultPage {
 	private WebDriver driver;
 
-	public ResultPage(WebDriver driver) {
-		this.driver = driver;
+	public ResultPage(WebDriver dri) {
+		this.driver = dri;
 	}
 
     public String getText() {
